@@ -82,5 +82,9 @@
     },
     "mp-toutiao" : {
         "usingComponents" : true
+    },
+    "h5" : {
+        "title" : "超英预告",
+        "domain" : ""
     }
 }
